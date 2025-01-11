@@ -1,4 +1,4 @@
-<h2 align="left">I am a frontend developer with a focus on web fundamentals. I enjoy building personal projects during my free time, experimenting with JavaScript, React, HTML, and CSS to create responsive and engaging user interfaces.</h2>
+<h2 align="left">👨‍💻I am a frontend developer with a focus on web fundamentals. <br><br>⚡⚡I enjoy building personal projects during my free time, experimenting with JavaScript, React, HTML, and CSS to create responsive and engaging user interfaces.</h2>
 
 ###
 
